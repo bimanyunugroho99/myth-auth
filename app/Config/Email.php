@@ -10,12 +10,12 @@ class Email extends BaseConfig
 	/**
 	 * @var string
 	 */
-	public $fromEmail = 'bimanyunugroho99@gmail.com';
+	public $fromEmail = 'youremail@gmail.com';
 
 	/**
 	 * @var string
 	 */
-	public $fromName = 'Bimanyu nF';
+	public $fromName = 'your_email';
 
 	/**
 	 * @var string
@@ -55,14 +55,14 @@ class Email extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $SMTPUser = 'bimanyunugroho99@gmail.com';
+	public $SMTPUser = 'youremail@gmail.com';
 
 	/**
 	 * SMTP Password
 	 *
 	 * @var string
 	 */
-	public $SMTPPass = 'sanditaurus1234567890';
+	public $SMTPPass = 'yourpasswordemail';
 
 	/**
 	 * SMTP Port
